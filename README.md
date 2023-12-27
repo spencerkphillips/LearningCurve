@@ -5,8 +5,8 @@
 Creating a Threads-like app using the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS) plus NextJS.
 
 This project will have multiple branches, here is how I intend to set these up.
-Branch 01 - Project Intro And Setup
-Branch 02 - Authentication
+Branch 01 - Authentication
+Branch 02 - Home Page
 So on and so forth.
 
 I am learning while doing this, if there are mistakes, please let me know.
